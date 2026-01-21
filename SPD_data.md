@@ -3,13 +3,19 @@
 Best for finding a mix of CSV, JSON, PDF, and sometimes images in one place.
 
 Kaggle Datasets
+
 https://www.kaggle.com/datasets
+
 --- Best for: CSV, JSON, SQLite, Image archives (ZIP).
+
 --- License Tip: Use the filter on the left side: "License: CC0: Public Domain" to ensure copyright safety.
 
 Zenodo
+
 https://zenodo.org/
+
 --- Best for: Academic datasets which often include "messy" real-world files like PDF reports, Excel sheets with macros, and raw instrument data.
+
 --- License Tip: Look for the "Access Right: Open" tag and check the license metadata on the right sidebar (often CC-BY or CC0).
 
 Data.gov** (USA) /** **** **Data.gov.uk (UK)** 
